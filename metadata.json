@@ -1,0 +1,6 @@
+{
+  "name": "Traditional Shadow Puppetry Workshop",
+  "description": "An interactive digital shadow puppetry theater and creation workshop. Choose from traditional puppets like heroes and creatures, customize joint structures, manipulate control rods, record animations, and collaborate with AI to write scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
